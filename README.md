@@ -1,10 +1,10 @@
 # marvelapi
 
 ## About
-marvel rest api built in golang. This service is runned to port 8080 (by default)
+marvel rest api built in golang. This service runs in port 8080 (by default)
 serving :
-1. Get All Character IDs (host:8080/characters)
-2. Get Character Info (Id,Name,Description) By id (host:8080/characters/<id>)
+1. Get All Character IDs `host:8080/characters`
+2. Get Character Info (Id,Name,Description) By id `host:8080/characters/<id>`
 
 ## Dependencies
 - Golang 1.16+
